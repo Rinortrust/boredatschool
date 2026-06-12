@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+    }
+
+    header {
+      background: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background: #555;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: yellow;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Welcome to My Website</h1>
+  <p>Created by rinor </p>
+</header>
+
+<nav>
+  #Home</a>
+  #About</a>
+  #Contact</a>
+</nav>
+
+<section>
+  <h2>Home</h2>
+  <p>This is my website. I built it cuh i was bored</p>
+</section>
+
+<section>
+  <h2>About me</h2>
+  <p>tasins a beg</p>
+</section>
+
+<footer>
+  <p>© 2026 trust me</p>
+</footer>
+
+</body>
+</html>
