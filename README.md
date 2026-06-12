@@ -1,0 +1,2 @@
+# boredatschool
+idk bruh
